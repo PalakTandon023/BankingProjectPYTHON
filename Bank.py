@@ -191,7 +191,7 @@ ch = 0
 while ch != 7:
     clr()
     star()
-    print("                     STATE BANK OF INDIA WELCOMES YOU        ")
+    print("                     BANK WELCOMES YOU        ")
     star()
     print("                                  1. Open account        ")
     print("                                  2. View Record        ")
